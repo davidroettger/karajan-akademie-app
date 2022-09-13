@@ -28,8 +28,8 @@ Die Verarbeitung dieser Daten erfolgt auf Grundlage berechtigter Interessen (Art
 
 Die erfassten Daten werden an die Hetzner Online GmbH („Hetzner“) als Betreiber der Webserver, auf denen die App betrieben wird, übermittelt. 
 
-Registrierung und Nutzung der App-Funktionen
-Voraussetzung für die Nutzung der App ist eine Registrierung. Durch die Registrierung kommt konkludent ein Nutzungsvertrag mit Ihnen als Nutzer zustande. Zum Zweck der Erfüllung des Nutzungsvertrags und der Bereitstellung der App und ihrer Funktionen (Art. 6 Abs. 1 lit. b DSGVO) verarbeiten wir folgende Daten:
+## Registrierung und Nutzung der App-Funktionen
+Voraussetzung für die Nutzung der App ist ein Account der durch die Karajan Akademie für die Studierenden erstellt wird. Durch die Registrierung kommt konkludent ein Nutzungsvertrag mit Ihnen als Nutzer zustande. Zum Zweck der Erfüllung des Nutzungsvertrags und der Bereitstellung der App und ihrer Funktionen (Art. 6 Abs. 1 lit. b DSGVO) verarbeiten wir folgende Daten:
 
 -Vorname
 -Nachname
