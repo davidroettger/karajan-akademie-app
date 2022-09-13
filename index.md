@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy / Datenschutzerklärung
 
 Datenschutzerklärung
 Stand der Datenschutzinformationen: 18. Mai 2021
