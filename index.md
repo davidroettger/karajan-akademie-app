@@ -31,11 +31,11 @@ Die erfassten Daten werden an die Hetzner Online GmbH („Hetzner“) als Betrei
 ## Registrierung und Nutzung der App-Funktionen
 Voraussetzung für die Nutzung der App ist ein Account der durch die Karajan Akademie für die Studierenden erstellt wird. Durch die Registrierung kommt konkludent ein Nutzungsvertrag mit Ihnen als Nutzer zustande. Zum Zweck der Erfüllung des Nutzungsvertrags und der Bereitstellung der App und ihrer Funktionen (Art. 6 Abs. 1 lit. b DSGVO) verarbeiten wir folgende Daten:
 
--Vorname
--Nachname
--E-Mail-Adresse
--Passwörter
--Informationen zur Musikschule sowie zu eingetragenen Kursen (z.B. Datum, Lehrer*in )
+- Vorname
+- Nachname
+- E-Mail-Adresse
+- Passwörter
+- Informationen zur Akademie sowie zu eingetragenen Kursen (z.B. Datum, Lehrer*in, Aufführungen )
 
 Die Bereitstellung dieser Daten ist erforderlich, damit die App und ihre Funktionen genutzt werden können. Ohne eine Bereitstellung dieser Daten kann die App nicht genutzt werden. Die erhobenen Daten werden an Hetzner als Betreiber der Webserver übermittelt bzw. offengelegt. Die Daten werden für die Dauer des Bestehens des Accounts gespeichert und nach Beendigung des Nutzungsverhältnisses anschließend gelöscht.
 
