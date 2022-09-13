@@ -16,14 +16,14 @@ Herbert-von-Karajan-Str. 1
 
 akademie@berliner-philharmoniker.de
 
-Datenverarbeitungen
+## Datenverarbeitungen
 Im Rahmen der Nutzung der App werden personenbezogene Daten zu verschiedenen Zwecken verarbeitet. Nachfolgend erläutern wir Ihnen die verschiedenen Verarbeitungsvorgänge.
 
-Server-Logfiles
+## Server-Logfiles
 Im Rahmen der Nutzung der App wird gleichzeitig auf den Webserver, auf dem die App betrieben („gehostet“) wird, zugegriffen. Auf dem Webserver werden automatisch sog. Logfiles erstellt, die die einzelnen Serverzugriffe protokollieren, erstellt. Insoweit werden folgende Daten erhoben und gespeichert:
 
-Uhrzeit
-IP-Adresse 
+- Uhrzeit
+- IP-Adresse 
 Die Verarbeitung dieser Daten erfolgt auf Grundlage berechtigter Interessen (Art. 6 Abs. 1 lit. f DSGVO). Der Zweck sowie das berechtigte Interesse bezüglich der Verarbeitung der Daten liegt darin, die App Ihnen als Nutzer zugänglich machen zu können, potenziell auftretende technische Probleme schnellstmöglich zu beheben sowie einen Missbrauch des Angebots zu verhindern. Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Verarbeitung nicht mehr erforderlich sind. Eine Löschung erfolgt nach drei Tagen. 
 
 Die erfassten Daten werden an die Hetzner Online GmbH („Hetzner“) als Betreiber der Webserver, auf denen die App betrieben wird, übermittelt. 
@@ -31,11 +31,11 @@ Die erfassten Daten werden an die Hetzner Online GmbH („Hetzner“) als Betrei
 Registrierung und Nutzung der App-Funktionen
 Voraussetzung für die Nutzung der App ist eine Registrierung. Durch die Registrierung kommt konkludent ein Nutzungsvertrag mit Ihnen als Nutzer zustande. Zum Zweck der Erfüllung des Nutzungsvertrags und der Bereitstellung der App und ihrer Funktionen (Art. 6 Abs. 1 lit. b DSGVO) verarbeiten wir folgende Daten:
 
-Vorname
-Nachname
-E-Mail-Adresse
-Passwörter
-Informationen zur Musikschule sowie zu eingetragenen Kursen (z.B. Datum, Lehrer*in )
+-Vorname
+-Nachname
+-E-Mail-Adresse
+-Passwörter
+-Informationen zur Musikschule sowie zu eingetragenen Kursen (z.B. Datum, Lehrer*in )
 
 Die Bereitstellung dieser Daten ist erforderlich, damit die App und ihre Funktionen genutzt werden können. Ohne eine Bereitstellung dieser Daten kann die App nicht genutzt werden. Die erhobenen Daten werden an Hetzner als Betreiber der Webserver übermittelt bzw. offengelegt. Die Daten werden für die Dauer des Bestehens des Accounts gespeichert und nach Beendigung des Nutzungsverhältnisses anschließend gelöscht.
 
