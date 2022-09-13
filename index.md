@@ -40,7 +40,7 @@ Voraussetzung für die Nutzung der App ist ein Account der durch die Karajan Aka
 Die Bereitstellung dieser Daten ist erforderlich, damit die App und ihre Funktionen genutzt werden können. Ohne eine Bereitstellung dieser Daten kann die App nicht genutzt werden. Die erhobenen Daten werden an Hetzner als Betreiber der Webserver übermittelt bzw. offengelegt. Die Daten werden für die Dauer des Bestehens des Accounts gespeichert und nach Beendigung des Nutzungsverhältnisses anschließend gelöscht.
 
 
-Betroffenenrechte
+## Betroffenenrechte
 Nutzer, deren personenbezogene Daten wir verarbeiten, haben das Recht, von uns jederzeit Auskunft über ihre gespeicherten personenbezogenen Daten zu erhalten (Art. 15 DSGVO), deren Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO) oder die Einschränkung der Verarbeitung (Art. 18 DSGVO) zu verlangen. Darüber hinaus besteht ein Recht auf Datenübertragbarkeit (Art. 20 DSGVO).
 
 Unter bestimmten Umständen besteht zudem das Recht, der Verarbeitung personenbezogener Daten zu widersprechen (Art. 21 DSGVO). 
