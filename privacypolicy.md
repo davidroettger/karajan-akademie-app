@@ -87,7 +87,7 @@ In the course of using the app, the web server on which the app is operated ("ho
 The processing of this data is based on legitimate interests (Art. 6 para. 1 lit. f DSGVO). The purpose as well as the legitimate interest regarding the processing of the data is to be able to make the app accessible to you as a user, to fix potentially occurring technical problems as quickly as possible as well as to prevent misuse of the offer. The data will be deleted as soon as they are no longer required to achieve the purpose of their processing. Deletion takes place after three days.
 The collected data is transmitted to Hetzner Online GmbH ("Hetzner") as the operator of the web servers on which the app is operated.
 
-Registration and use of the app functions
+## Registration and use of the app functions
 The prerequisite for using the app is an account created by the Karajan Academy for the students. By registering, a contract of use is impliedly concluded with you as the user. For the purpose of fulfilling the usage contract and providing the app and its functions (Art. 6 para. 1 lit. b DSGVO), we process the following data:
 
 - First name
