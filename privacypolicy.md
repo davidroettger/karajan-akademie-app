@@ -1,7 +1,7 @@
 # Privacy Policy / Datenschutzerklärung
 
 Datenschutzerklärung
-Stand der Datenschutzinformationen: 18. Mai 2021
+Stand der Datenschutzinformationen: 19. September 2022
 
 Im Rahmen der Nutzung der „Karajan-Akademie-App“ als Smart-Device-Applikation (auf dem Smartphone) oder als Web-App (über einen Webbrowser) (nachfolgend insgesamt: „App“) werden personenbezogene Daten der Nutzerinnen und Nutzer (nachfolgend: „Nutzer“) verarbeitet. Die Verarbeitung personenbezogener Daten erfolgt unter Beachtung der geltenden rechtlichen Vorgaben. 
 
