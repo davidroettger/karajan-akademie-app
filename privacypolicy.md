@@ -24,6 +24,7 @@ Im Rahmen der Nutzung der App wird gleichzeitig auf den Webserver, auf dem die A
 
 - Uhrzeit
 - IP-Adresse 
+
 Die Verarbeitung dieser Daten erfolgt auf Grundlage berechtigter Interessen (Art. 6 Abs. 1 lit. f DSGVO). Der Zweck sowie das berechtigte Interesse bezüglich der Verarbeitung der Daten liegt darin, die App Ihnen als Nutzer zugänglich machen zu können, potenziell auftretende technische Probleme schnellstmöglich zu beheben sowie einen Missbrauch des Angebots zu verhindern. Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Verarbeitung nicht mehr erforderlich sind. Eine Löschung erfolgt nach drei Tagen. 
 
 Die erfassten Daten werden an die Hetzner Online GmbH („Hetzner“) als Betreiber der Webserver, auf denen die App betrieben wird, übermittelt. 
